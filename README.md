@@ -41,4 +41,4 @@ Contributions, issues, and suggestions are welcome. Feel free to open a PR or an
 
 Author
 
-- cmd-play (they/them)
+- cmd-play
